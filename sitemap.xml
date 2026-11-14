@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://marusauna.com/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/ko</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/ja/about</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/about"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/about"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/ja/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/pricing"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/pricing"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/ja/gallery</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/gallery"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/gallery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/gallery"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/gallery</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/gallery"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/gallery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/gallery"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/ja/access</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/access"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/access"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/access"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/access</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/access"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/access"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/access"/>
+  </url>
+</urlset>
